@@ -1,0 +1,2 @@
+# application-properties
+all details
